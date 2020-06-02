@@ -1,3 +1,9 @@
+# Database File
+database.sqlite
+
+# dotEnv
+.env
+
 # Logs
 logs
 *.log
