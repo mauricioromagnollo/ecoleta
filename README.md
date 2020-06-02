@@ -1,5 +1,5 @@
 <h1 align=center>
-Ecoleta
+<img src="https://user-images.githubusercontent.com/38081852/83572988-ff4c6080-a500-11ea-865c-5a661f694f75.png" />
 </h1>
 
 <div align="center">
