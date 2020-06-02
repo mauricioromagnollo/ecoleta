@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="https://user-images.githubusercontent.com/38081852/83572988-ff4c6080-a500-11ea-865c-5a661f694f75.png" />
+<img src="https://user-images.githubusercontent.com/38081852/83573771-77ffec80-a502-11ea-8d3b-9b97c9414480.png" />
 </h1>
 
 <div align="center">
@@ -12,6 +12,10 @@ Projeto Open Source desenvolvido na Next Level Week da [Rocketseat][rocketseat_s
 
 
 <!-- Links References -->
+
+<!-- Prototype -->
+<!-- https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=4%3A422 -->
+
 
 [rocketseat_site]: https://rocketseat.com.br/
 
