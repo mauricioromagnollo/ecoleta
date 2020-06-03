@@ -1,8 +1,20 @@
+# React
+/node_modules
+/.pnp
+.pnp.js
+/coverage
+/build
+.DS_Store
+
 # Database File
 database.sqlite
 
 # dotEnv
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # Logs
 logs
