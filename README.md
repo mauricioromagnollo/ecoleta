@@ -11,7 +11,37 @@
 
 </div>
 
-Projeto Open Source desenvolvido na Next Level Week da [Rocketseat][rocketseat_site] utilizando TypeScript, Node, React e React Native. Com objetivo de criar uma conexão entre empresas e/ou entidades que coletam resíduos (orgânicos e inorgânicos) às pessoas/empresas que necessitam descartar esses resíduos.
+<h3 align="center">
+
+Projeto **Open Source** desenvolvido na semana **Next Level Week** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
+
+</h3>
+
+<!-- 
+  ...
+  Local Reservado para o Banner com a montagem da tela
+  do site e do aplicativo mobile.
+  ...
+-->
+
+## **:rocket: Objetivo**
+
+O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou entidades que coletam resíduos** (orgânicos e inorgânicos) **às pessoas e/ou entidades que necessitam constantemente descartar esses resíduos**. Solucionando um grande problema recorrente que é o **descarte inadequado do lixo**, facilitando o processo de recliclagem e reutilização.
+
+<!-- 
+  ...
+  Local Reservado para o GIF do projeto rodando.
+  ...
+-->
+
+<!-- ## **:computer: Tecnologias** -->
+
+
+## **:page_with_curl: LICENÇA**
+
+Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
+
+
 
 
 <!-- Links References -->
