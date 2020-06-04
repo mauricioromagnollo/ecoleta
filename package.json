@@ -1,0 +1,30 @@
+{
+  "name": "ecoleta",
+  "version": "1.0.0",
+  "description": "<h1 align=center> <img src=\"https://user-images.githubusercontent.com/38081852/83580830-6f63e200-a513-11ea-9a27-0a109ec1e4d0.png\" /> </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x0n4d0/ecoleta.git"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x0n4d0/ecoleta/issues"
+  },
+  "homepage": "https://github.com/x0n4d0/ecoleta#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "husky": "^4.2.5"
+  }
+}
