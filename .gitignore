@@ -1,3 +1,7 @@
+# Uploads
+uploads/*
+!uploads/*.svg
+
 # React Native
 node_modules/**/*
 .expo/*
