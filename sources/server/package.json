@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev --transpileOnly --ignore-watch node_modules src/server.ts",
+    "dev": "ts-node-dev --require dotenv/config --transpileOnly --ignore-watch node_modules src/server.ts",
+    "tmp": "ts-node-dev --require dotenv/config --ignore-watch node_modules src/controllers/ItemsController.ts",
     "knex:seed": "knex --knexfile knexfile.ts seed:run",
     "knex:migrate": "knex --knexfile knexfile.ts migrate:latest"
   },
@@ -13,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "knex": "^0.21.1",
     "sqlite3": "^4.2.0"
