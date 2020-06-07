@@ -13,7 +13,7 @@
 
 <h3 align="center">
 
-Projeto **Open Source** desenvolvido na semana **Next Level Week** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
+Projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
 
 </h3>
 
@@ -55,10 +55,23 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   - **[KnexJS][knex]**
   - **[SQLite][sqlite3]**
   - **[ts-node][tsnode]**
+  - **[dotENV][dotenv]**
 
   \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
 
-<!-- #### **Mobile** ([React Native][react_native] + [TypeScript][typescript]) -->
+#### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
+
+  - **[Expo][expo]**
+  - **[Expo Google Fonts][expo_google_fonts]**
+  - **[React Navigation][react_navigation]**
+  - **[React Native Maps][react_native_maps]**
+  - **[Expo Constants][expo_constants]**
+  - **[React Native SVG][react_native_svg]**
+  - **[Axios][axios]**
+  - **[Expo Location][expo_location]**
+  - **[Expo Mail Composer][expo_mail_composer]**
+
+  \* Veja o arquivo <kbd>[package.json](./sources/mobile/package.json)</kbd>
 
 #### **Utilitários**
 
@@ -69,12 +82,8 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 - Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
 - Commit Conventional: **[Commitlint][commitlint]**
 - Teste de API: **[Insomnia][insomnia]**
-- Ícones: **[Feather Icons][feather_icons]**
+- Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
 - Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
-
-[font_roboto]: https://fonts.google.com/specimen/Roboto
-
-[font_ubuntu]: https://fonts.google.com/specimen/Ubuntu
 
 ## **:page_with_curl: LICENÇA**
 
@@ -151,3 +160,27 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [react_icons]: https://react-icons.github.io/react-icons/
 
 [axios]: https://github.com/axios/axios
+
+[dotenv]: https://github.com/motdotla/dotenv
+
+[expo]: https://expo.io/
+
+[expo_google_fonts]: https://github.com/expo/google-fonts
+
+[react_navigation]: https://reactnavigation.org/
+
+[react_native_maps]: https://github.com/react-native-community/react-native-maps
+
+[expo_constants]: https://docs.expo.io/versions/latest/sdk/constants/
+
+[react_native_svg]: https://github.com/react-native-community/react-native-svg
+
+[expo_location]: https://docs.expo.io/versions/latest/sdk/location/
+
+[expo_mail_composer]: https://docs.expo.io/versions/latest/sdk/mail-composer/
+
+[font_roboto]: https://fonts.google.com/specimen/Roboto
+
+[font_ubuntu]: https://fonts.google.com/specimen/Ubuntu
+
+[font_awesome]: https://fontawesome.com/
