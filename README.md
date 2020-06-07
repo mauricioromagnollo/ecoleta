@@ -13,7 +13,7 @@
 
 <h3 align="center">
 
-Projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
+♻️ Ecoleta é um projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
 
 </h3>
 
@@ -24,7 +24,7 @@ Projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **[R
   ...
 -->
 
-## **:rocket: Objetivo**
+## **:rocket: OBJETIVO**
 
 O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou entidades que coletam resíduos** (orgânicos e inorgânicos) **às pessoas e/ou entidades que necessitam constantemente descartar esses resíduos**. Solucionando um grande problema recorrente que é o **descarte inadequado do lixo**, facilitando o processo de recliclagem e reutilização.
 
@@ -34,7 +34,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   ...
 -->
 
-## **:computer: Tecnologias**
+## **:computer: TECNOLOGIAS**
 
 
 #### **Website** ([React][react] + [TypeScript][typescript])
@@ -44,6 +44,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   - **[Axios][axios]**
   - **[Leaflet][leaflet]**
   - **[React Leaflet][react_leaflet]**
+  - **[React Dropzone][react_dropzone]**
 
 
   \* Veja o arquivo <kbd>[package.json](./sources/website/package.json)</kbd>
@@ -56,6 +57,9 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   - **[SQLite][sqlite3]**
   - **[ts-node][tsnode]**
   - **[dotENV][dotenv]**
+  - **[Multer][multer]**
+  - **[Celebrate][celebrate]**
+  - **[Joi][joi]**
 
   \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
 
@@ -85,10 +89,49 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 - Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
 - Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
 
+
+## **:star2: AGRADECIMENTOS**
+
+<div align=center>
+
+<table style="width:100%">
+  <tr align=center>
+    <th><strong>Next Level Week</strong></th>
+    <th><strong>Rocketseat</strong></th>
+    <th><strong>diego3g</strong></th>
+    <th><strong>maykbrito</strong></th>
+  </tr>
+  <tr align=center>
+    <td>
+      <a href="https://nextlevelweek.com/">
+        <img width="200" src="https://user-images.githubusercontent.com/42815135/83976057-f0352c00-a8cd-11ea-88da-22ff672ce842.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://rocketseat.com.br/">
+        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981650-1e2e6680-a8f6-11ea-9f42-6df8fe809e4b.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/diego3g">
+        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981712-b7f61380-a8f6-11ea-9099-bd3677e97e39.jpg">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/maykbrito">
+        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981753-1de29b00-a8f7-11ea-93cf-23d2ff65fa5c.png">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## **:page_with_curl: LICENÇA**
 
 Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
 
+<h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/mauricioromagnoli/">Maurício Romagnoli</a></h2>
 
 
 <!-- Website Links -->
@@ -184,3 +227,11 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [font_ubuntu]: https://fonts.google.com/specimen/Ubuntu
 
 [font_awesome]: https://fontawesome.com/
+
+[multer]: https://github.com/expressjs/multer
+
+[celebrate]: https://github.com/arb/celebrate
+
+[joi]: https://github.com/hapijs/joi
+
+[react_dropzone]: https://github.com/react-dropzone/react-dropzone
