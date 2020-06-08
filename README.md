@@ -262,20 +262,25 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 </div>
 
+## **:books: REFERÊNCIAS**
+
+- [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [Blog Rocketseat](https://blog.rocketseat.com.br/)
+- [ReactJS](https://reactjs.org/docs/getting-started.html) | [ReactJS pt-BR](https://pt-br.reactjs.org/docs/getting-started.html)
+- [TypeScript](https://www.typescriptlang.org/docs/home.html)
+- [React Native](https://reactnative.dev/docs/getting-started)
+- [Expo](https://expo.io/learn)
+- [Knex][knex]
+- [Express](https://expressjs.com/pt-br/)
+- [Node](https://nodejs.org/en/)
+- [Celebrate](https://github.com/arb/celebrate)
+- [Joi](https://hapi.dev/module/joi/)
+
 ## **:page_with_curl: LICENÇA**
 
 Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
 
 <h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/mauricioromagnoli/">Maurício Romagnoli</a></h2>
-
-
-<!-- 
-TÓPICO: ## **REFERÊNCIAS**
-
-- [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- [Blog Rocketseat](https://blog.rocketseat.com.br/)
-
- -->
 
 <!-- Website Links -->
 
