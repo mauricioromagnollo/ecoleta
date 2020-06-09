@@ -115,6 +115,7 @@ Instale as dependências contidas nos arquivos `package.json` que se encontram n
 
 ```sh
 $ npm install
+
 # ou
 $ yarn
 ```
@@ -140,15 +141,18 @@ $ npm install
 
 Veja os arquivos **`package.json`** do <kbd>[commitlint](./package.json)</kbd>, <kbd>[server](./sources/server/package.json)</kbd>, <kbd>[website](./sources/website/package.json)</kbd> e <kbd>[mobile](./sources/mobile/package.json)</kbd>.
 
-### Utilizando o servidor
+### Utilizando o Server
 
 ```sh
 # Abrindo o terminal no diretório do servidor:
 $ cd ./sources/server
+
 # Executando a aplicação em modo de desenvolvimento:
 $ npm run dev
+
 # Instanciando o banco de dados:
 $ npm run knex:migrate
+
 # Povoando o banco de dados (seeds):
 $ npm run knex:seed
 ```
@@ -160,19 +164,21 @@ $ npm run knex:seed
 ```sh
 # Abrindo o terminal no diretório do website:
 $ cd ./sources/website
+
 # Executando o website no modo de desenvolvimento:
 $ npm run start
 ```
 
 > Se o browser não abrir automaticamente, acesse: http://localhost:3000.
 
-### Utilizando o mobile
+### Utilizando o Mobile
 
 Instale o aplicativo <kbd>[Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en)</kbd> no seu smartphone.
 
 ```sh
 # Abrindo o terminal no diretório do mobile:
 $ cd ./sources/mobile
+
 # Executando o mobile no modo de desenvolvimento:
 $ npm run start
 ```
