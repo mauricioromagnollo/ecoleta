@@ -17,12 +17,7 @@
 
 </h3>
 
-<!-- 
-  ...
-  Local Reservado para o Banner com a montagem da tela
-  do site e do aplicativo mobile.
-  ...
--->
+![Banner](https://user-images.githubusercontent.com/38081852/84095189-04178580-a9d5-11ea-9496-9ec6f6a282e5.png)
 
 ## **:rocket: OBJETIVO**
 
