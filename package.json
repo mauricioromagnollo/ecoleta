@@ -14,7 +14,7 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
-  },  
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
