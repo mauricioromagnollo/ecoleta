@@ -49,7 +49,7 @@ const CreatePoint: React.FC = () => {
   });
 
   const history = useHistory();
-  
+
   useEffect(() => {
     navigator.geolocation.getCurrentPosition(position => {
       const { latitude, longitude } = position.coords;
