@@ -4,10 +4,7 @@
 
 <div align="center">
 
-![GitHub issues][github_issues_badge] ![GitHub][repository_license_badge] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-  </a>
+![BADGE_LICENSE] ![BADGE_NODE_VERSION] ![BADGE_NPM_VERSION] ![BADGE_WEB_REACT] ![BADGE_MOBILE_REACT_NATIVE] ![BADGE_SERVER_NODEJS] ![BADGE_TYPESCRIPT] ![BADGE_OPEN_SOURCE] ![BADGE_OPEN_ISSUES] ![BADGE_CLOSED_ISSUES] ![BADGE_STARS] ![BADGE_FORKS]
 
 </div>
 
@@ -281,7 +278,13 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
 
-<h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/mauricioromagnoli/">Maurício Romagnoli</a></h2>
+<h3 align="center">
+Feito com ❤️ por <a href="https://www.linkedin.com/in/mauricioromagnoli/">Maurício Romagnoli</a>
+<br><br>
+<a href="https://rocketseat.com.br">
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+</a>
+</h3>
 
 <!-- Website Links -->
 
@@ -289,19 +292,29 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 <!-- Badges -->
 
-[github_issues_badge]: https://img.shields.io/github/issues/x0n4d0/ecoleta?color=green
+[BADGE_CLOSED_ISSUES]: https://img.shields.io/github/issues-closed/x0n4d0/ecoleta?color=red
 
-[repository_license_badge]: https://img.shields.io/github/license/x0n4d0/ecoleta
+[BADGE_OPEN_ISSUES]: https://img.shields.io/github/issues/x0n4d0/ecoleta?color=green
 
-[node_version_badge]: https://img.shields.io/badge/node-12.17.0-green
+[BADGE_LICENSE]: https://img.shields.io/github/license/x0n4d0/ecoleta
 
-[npm_version_badge]: https://img.shields.io/badge/npm-6.14.4-red
+[BADGE_NODE_VERSION]: https://img.shields.io/badge/node-12.17.0-green
 
-[web_react_badge]: https://img.shields.io/badge/web-react-blue
+[BADGE_NPM_VERSION]: https://img.shields.io/badge/npm-6.14.4-red
 
-[mobile_react-native_badge]: https://img.shields.io/badge/mobile-react%20native-blueviolet
+[BADGE_WEB_REACT]: https://img.shields.io/badge/web-react-blue
 
-[server_nodejs_badge]: https://img.shields.io/badge/server-nodejs-important
+[BADGE_MOBILE_REACT_NATIVE]: https://img.shields.io/badge/mobile-react%20native-blueviolet
+
+[BADGE_SERVER_NODEJS]: https://img.shields.io/badge/server-nodejs-important
+
+[BADGE_STARS]: https://img.shields.io/github/stars/x0n4d0/ecoleta?style=social
+
+[BADGE_FORKS]: https://img.shields.io/github/forks/x0n4d0/ecoleta?style=social
+
+[BADGE_TYPESCRIPT]: https://badges.frapsoft.com/typescript/code/typescript.png?v=101
+
+[BADGE_OPEN_SOURCE]: https://badges.frapsoft.com/os/v1/open-source.png?v=103
 
 <!-- Techs -->
 
